@@ -1,0 +1,1 @@
+SecEdit.exe /configure /db C:\WINDOWS\security\Database\custom.sdb /cfg demo.inf
